@@ -1,12 +1,13 @@
-## Hi there 👋
+# 오늘의 치킨 🍗
 
-<!--
+- 오늘 먹은 치킨을 함께 공유해요. ☁️
+- 치킨러가 좋아하는 치킨 순위와 오늘의 치킨을 확인할 수 있어요.
+- 새로 나온 치킨을 확인할 수 있어요.
 
-**Here are some ideas to get you started:**
+## 오늘의 치킨 프로젝트
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+- 프로젝트 진행 날짜 : 2024.01.13 -
+- 개발 정보
+  - 프론트엔드 🎨 : [유지우](https://github.com/yuziwoo)
+  - 백엔드 💻 : [유현](https://github.com/yuhyun1)
+  - [노션 기획](https://www.notion.so/yuziwoo2/309a002f4f5240818537b01b293a0ed0?pvs=4)
