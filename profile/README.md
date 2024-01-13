@@ -6,8 +6,8 @@
 
 ## 오늘의 치킨 프로젝트
 
-- 프로젝트 진행 날짜 : 2024.01.13 -
-- 개발 정보
+- 프로젝트 기간 : 2024.01.13 -
+- [노션 기획](https://www.notion.so/yuziwoo2/309a002f4f5240818537b01b293a0ed0?pvs=4)
+- 개발자
   - 프론트엔드 🎨 : [유지우](https://github.com/yuziwoo)
   - 백엔드 💻 : [유현](https://github.com/yuhyun1)
-  - [노션 기획](https://www.notion.so/yuziwoo2/309a002f4f5240818537b01b293a0ed0?pvs=4)
